@@ -1,0 +1,25 @@
+#serach{min-width:1200px;width:100%;}
+
+#serach .ser_con{width:820px;margin:auto;position:relative;}
+
+#serach .ser_con .house{width:820px;height:158px;position:absolute;top:-230px;left:0; background:url(../images/rgba07.png) no-repeat; z-index:9999}
+
+#serach .ser_con .house .titl{height:32px;color:#fff;margin-top:25px;font-size:14px;}
+
+#serach .ser_con .house .titl span{width:120px;font-size:28px;padding:30px;}
+
+#serach .ser_con .house .h_query{padding-left:20px;color:#fff;margin-top:18px;}
+
+#serach .ser_con .house .h_query ul li{float:left;margin-right:45px;font-size:14px; margin-top:10px;}
+
+#serach .ser_con .house .h_query ul li input{height:26px;margin-top:8px;width:157px;border:0;line-height:26px;}
+
+#serach .ser_con .house .h_query ul li .bg1{height:26px;margin-top:-25px;width:161px;border:0;padding-left:45px;line-height:26px;}
+
+#serach .ser_con .house .h_query ul li .bg1 .in_txt{border:0;width:156px;outline:none;}
+
+#serach .ser_con .house .h_query ul li .bg1 .in_txt option{border:0;}
+
+#serach form > button{width:100px;height:34px;background:url(../images/aa.png) no-repeat center;
+
+				border:0;position:absolute;bottom:10px;right:15px;cursor:pointer;}
